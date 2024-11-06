@@ -3,6 +3,10 @@
 
 This is a full stack Nextjs app with a beautiful and amazing design ui. 
 
+
+https://github.com/user-attachments/assets/dd858dd5-681c-4ceb-a401-bca65196b857
+
+
 ## Quick start
 
 To spin up this example loccaly, follow these steps
